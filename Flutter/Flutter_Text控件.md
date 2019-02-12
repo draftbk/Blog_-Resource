@@ -1,5 +1,5 @@
 ## Flutter Text 控件
-> 本章代码 [Github地址](https://github.com/draftbk/flutter_road/tree/master/flutter_road_widgets)
+> 实验一些常用的 Text 功能 [Github地址](https://github.com/draftbk/flutter_road/tree/master/flutter_road_widgets)
 
 ### Text 实验
 
@@ -15,7 +15,7 @@ Text 实验了 Text 常用的一些功能
 8. 文字点击事件
 9. 文字拼接
 
-![]()
+![](https://github.com/draftbk/Blog_Resource/blob/master/Flutter/gif/flutter_load_text.gif)
 
 [Github地址](https://github.com/draftbk/flutter_road/tree/master/flutter_road_widgets)
 
