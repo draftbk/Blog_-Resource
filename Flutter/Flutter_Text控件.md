@@ -19,12 +19,30 @@ Text 实验了 Text 常用的一些功能
 
 [Github地址](https://github.com/draftbk/flutter_road/tree/master/flutter_road_widgets)
 
+#### Text Style 属性
+
+感觉Text, 也没什么太多可以说的，可以自己尝试不同属性的设置对Text 进行更改，然后看看官网的文档
+
+| 属性  | 意义    |
+| ---------- | -----------  |
+| fontSize     | 文字大小    | 
+| fontWeight   | 文字粗细    | 
+| color     | 文字颜色   | 
+| fontFamily   | 字体    | 
+| fontStyle     | 文字风格（可以设置斜体）    | 
+| wordSpacing     | 单词之间的间隙    | 
+| letterSpacing     |字母之间的间隙    | 
+| locale     |区域设置  | 
+| decoration | 文字装饰（例如下划线，上划线，划去的效果）    | 
+| decorationStyle  |文字装饰的风格（例如我上面代码实现的波浪线）  | 
+| decorationColor     |文字装饰的颜色   | 
+
 #### Text 学习链接推荐
 [官网 Text Class](https://docs.flutter.io/flutter/widgets/Text-class.html)
 
 [Flutter 中文网 Text](https://flutterchina.club/widgets/text/)
 
-[Flutter Widgets: Text](https://juejin.im/entry/5b06aea8f265da0dce48fb56/)
+
 
 
 
