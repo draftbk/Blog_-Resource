@@ -42,6 +42,9 @@ Text 实验了 Text 常用的一些功能
 
 [Flutter 中文网 Text](https://flutterchina.club/widgets/text/)
 
+#### Flutter 学习之路 Github 地址
+
+[https://github.com/draftbk/flutter_road](https://github.com/draftbk/flutter_road)
 
 
 
