@@ -1,5 +1,5 @@
 ## Flutter Text 控件
-> 实验一些常用的 Text 功能 [Github地址](https://github.com/draftbk/flutter_road/tree/master/flutter_road_widgets)
+> 实验一些常用的 Text 功能 ---[代码Github地址](https://github.com/draftbk/flutter_road/blob/master/flutter_road_widgets/lib/days/Day1.dart)
 
 ### Text 实验
 
@@ -17,7 +17,7 @@ Text 实验了 Text 常用的一些功能
 
 ![](https://github.com/draftbk/Blog_Resource/blob/master/Flutter/gif/flutter_load_text.gif)
 
-[Github地址](https://github.com/draftbk/flutter_road/tree/master/flutter_road_widgets)
+[代码地址](https://github.com/draftbk/flutter_road/blob/master/flutter_road_widgets/lib/days/Day1.dart)
 
 #### Text Style 属性
 

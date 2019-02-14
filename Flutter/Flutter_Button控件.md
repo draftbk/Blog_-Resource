@@ -1,9 +1,9 @@
 ## Flutter Button 控件
-> 实验一些常用的 Button 功能 [Github地址](https://github.com/draftbk/flutter_road)
+> 实验一些常用的 Button 功能 --- [代码Github地址](https://github.com/draftbk/flutter_road/blob/master/flutter_road_widgets/lib/days/Day2.dart)
 
 ### Button 实验
 
-Text 实验了 Text 常用的一些功能
+实验了 Button 常用的一些功能
 
 1. RaisedButton
 2. FlatButton
@@ -14,7 +14,7 @@ Text 实验了 Text 常用的一些功能
 
 ![](https://github.com/draftbk/Blog_Resource/blob/master/Flutter/picture/flutter_load_text.jpeg)
 
-[Github地址](https://github.com/draftbk/flutter_road/tree/master/flutter_road_widgets)
+[代码地址](https://github.com/draftbk/flutter_road/blob/master/flutter_road_widgets/lib/days/Day2.dart)
 
 #### 遇到的问题
 
